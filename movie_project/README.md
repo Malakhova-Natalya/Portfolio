@@ -1,6 +1,5 @@
 # Исследование данных о российском кинопрокате
-[HTML](https://github.com/Malakhova-Natalya/Portfolio/blob/main/movie_project/movies_project.html "Заголовок ссылки") [ipynb](https://github.com/Malakhova-Natalya/Portfolio/blob/main/movie_project/movies_project.ipynb"Заголовок ссылки")
-
+[HTML](https://github.com/Malakhova-Natalya/Portfolio/blob/main/movie_project/movies_project.html "Заголовок ссылки") [ipynb](https://github.com/Malakhova-Natalya/Portfolio/blob/main/movie_project/movies_project.ipynb "Заголовок ссылки")
 ## Описание	
 На основе данных, опубликованных на портале открытых данных Министерства культуры:    
 - изучить рынок российского кинопроката
