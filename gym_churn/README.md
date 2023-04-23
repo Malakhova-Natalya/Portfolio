@@ -1,5 +1,5 @@
 # Основы машинного обучения
-[HTML]( "html") [ipynb]( "ipynb") 
+[HTML](https://github.com/Malakhova-Natalya/Portfolio/blob/main/gym_churn/gym_churn_project.html "html") [ipynb](https://github.com/Malakhova-Natalya/Portfolio/blob/main/gym_churn/gym_churn_project.ipynb "ipynb") 
 ## Описание	
 Разработка стратегии взаимодействия с клиентами фитнес-центров на основе аналитических данных: 
 - анализ данных анкет клиентов фитнес-центров
