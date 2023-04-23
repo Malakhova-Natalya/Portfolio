@@ -1,5 +1,5 @@
 # Принятие решений в бизнесе
-[HTML]( "html") [ipynb]( "ipynb") 
+[HTML](https://github.com/Malakhova-Natalya/Portfolio/blob/main/hypothesis_ab/hypothesis_ABtest_project.html "html") [ipynb](https://github.com/Malakhova-Natalya/Portfolio/blob/main/hypothesis_ab/hypothesis_ABtest_project.ipynb "ipynb") 
 ## Описание	в
 Выявление наиболее перспективных гипотез по увеличению выручки при помощи фреймворков ICE и RICE; анализ результатов А/В-теста
 ## Навыки и инструменты
