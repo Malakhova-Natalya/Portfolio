@@ -5,8 +5,8 @@
 ## Навыки и инструменты
 - python 
 - SQL 
+- SQLAlchemy
 - matplotlib 
 - seaborn 
 - оконные функции
 - визуализация
-
