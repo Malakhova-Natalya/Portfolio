@@ -3,8 +3,11 @@
 ## Описание	
 Анализ взаимодействия пользователей с карточками Яндекс.Дзен
 ## Навыки и инструменты
-- python 
-- pandas 
+- python
+- pandas
 - SQL
+- SQLAlchemy
+- PostgreSQL
 - Tableau Public
+- продуктовые метрики
 
